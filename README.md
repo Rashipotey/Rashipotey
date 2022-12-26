@@ -4,7 +4,7 @@
 - I’m looking to collaborate on web development projects as a frontend developer.
 - You can reach out to me here- 
 <a href="https://linktr.ee/rashipotey?utm_source=linktree_profile_share&ltsid=c31a8e41-247f-4dcc-9722-49481dd0a84d">My Linktree</a>
-<a href="rashipotey27@gmail.com">rashipotey27@gmail.com</a>
+- My Mail: rashipotey27@gmail.com
 
 <!---
 Rashipotey/Rashipotey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
