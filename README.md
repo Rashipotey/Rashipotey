@@ -3,7 +3,7 @@
 - I’m currently learning web development and completed CSS.
 - I’m looking to collaborate on web development projects as a frontend developer.
 
-https://github.com/Rashipotey/Rashipotey/blob/main/developer.png
+<img src="https://github.com/Rashipotey/Rashipotey/blob/main/developer.png">
 - You can reach out to me here- 
 <a href="https://linktr.ee/rashipotey?utm_source=linktree_profile_share&ltsid=c31a8e41-247f-4dcc-9722-49481dd0a84d">My Linktree</a>
 - My Mail: rashipotey27@gmail.com
