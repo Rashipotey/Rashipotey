@@ -4,11 +4,9 @@
   <img width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="coding">
 </div>
 
-- 👩‍🎓 I am a sophomore at RCOEM, Nagpur.
+- 👩‍🎓 Student at RCOEM, Nagpur.
 - 💻 I’m passionate about competitive programming.
-- 👩🏻‍💻 I enjoy working with languages like C, Java, React, HTML, CSS, Javascript.
-- 🤝 I’m looking to collaborate on web development projects as a frontend developer.
-- 🎯 I aim to upskill my competitive programming skills.
+- 🎯 I aim to upskill my competitive programming skills and dive to field of cutting edge technology.
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
