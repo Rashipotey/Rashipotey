@@ -13,8 +13,8 @@
 </p>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/rashipotey/"><img src="https://github.com/user-attachments/assets/3fae7610-fdad-4958-ace7-01bdc1c7fb40" width="50" height="50"></a>
-<a href="https://www.instagram.com/rashi.potey?igsh=ZGNjOWZkYTE3MQ=="><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/dd18a1ac-f958-4449-b108-70accab71a99" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/rashipotey/"><img src="https://github.com/user-attachments/assets/3fae7610-fdad-4958-ace7-01bdc1c7fb40" width="30" height="30"></a>
+<a href="https://www.instagram.com/rashi.potey?igsh=ZGNjOWZkYTE3MQ=="><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/dd18a1ac-f958-4449-b108-70accab71a99" width="30" height="30"></a>
 
 
 # 💻 Tech Stack:
