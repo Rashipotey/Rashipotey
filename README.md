@@ -13,7 +13,7 @@
 </p>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/rashipotey/"><img src="https://github.com/user-attachments/assets/7cb32e2e-4b64-485a-8a04-e958aec0f869" width="30" height="30" border-radius="10"></a>
+<a href="https://www.linkedin.com/in/rashipotey/"><img src="https://github.com/user-attachments/assets/3921f206-3af8-4b53-b263-e823f325b518" width="30" height="30" border-radius="10"></a>
 <a href="https://www.instagram.com/rashi.potey?igsh=ZGNjOWZkYTE3MQ=="><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/dd18a1ac-f958-4449-b108-70accab71a99" width="40" height="40"></a>
 
 
