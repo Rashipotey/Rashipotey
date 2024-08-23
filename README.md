@@ -1,7 +1,7 @@
 ### Hi there 👋 , I am Rashi! 
 
 <div align="center" >
-  <img width="400" src="https://github.com/user-attachments/assets/e32138b0-4295-40ff-96a2-69a74d6d0c8f" alt="coding">
+  <img width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="coding">
 </div>
 
 - 👩‍🎓 Student at RCOEM, Nagpur.
