@@ -13,9 +13,7 @@
 </p>
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/www.linkedin.com/in/rashipotey"><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/1c549b53-55f2-4e2d-ad3a-382300d9fbae" width="50" height="50"></a>
-<a href="https://medium.com/@https://medium.com/@poteyrashi"><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/df3a5977-334d-464c-9f84-5ce09b261021" width="50" height="50"></a>
-<a href="https://x.com/PoteyRashi?t=Y1Jfnab_tjHhM--OoN1ymQ&s=09"><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/8b2d64f5-531a-4b3c-b846-6fd8d7ccb344" width="50" height="50"></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rashipotey"><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/1c549b53-55f2-4e2d-ad3a
 <a href="https://www.instagram.com/rashi.potey?igsh=ZGNjOWZkYTE3MQ=="><img src="https://github.com/Rashipotey/Rashipotey/assets/111111887/dd18a1ac-f958-4449-b108-70accab71a99" width="50" height="50"></a>
 
 
