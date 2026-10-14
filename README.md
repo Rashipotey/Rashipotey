@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashi</h1>
 <h3 align="center">I am passionate about competitive programming and inquisitive about cutting-edge technology</h3>
-I’m a student at RCOEM, Nagpur<br>
+Junior SDET<br>
 📫 Email: poteyrashi@gmail.com<br>
 ⚡ Fun fact: I can listen to the same song a million times.
 
